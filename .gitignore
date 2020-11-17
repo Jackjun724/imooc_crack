@@ -1,3 +1,4 @@
 # Project exclude paths
 /target/
 imooc_crack.iml
+.idea
